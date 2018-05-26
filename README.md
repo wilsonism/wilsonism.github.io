@@ -2,7 +2,7 @@
 
 ## associate professor of geography, university of kentucky<br>visiting scholar, harvard university
 
-[about me](https://wilsonism.github.io/bio/)
+[bio](https://wilsonism.github.io/bio/)
 
 ## Writing.
 
