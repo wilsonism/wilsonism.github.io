@@ -2,9 +2,7 @@
 
 ## associate professor of geography, university of kentucky<br>visiting scholar, harvard university
 
-[bio](https://wilsonism.github.io/bio/)
-
-[website](http://www.matthew-w-wilson.com)
+[bio](https://wilsonism.github.io/bio/)<br>[website](http://www.matthew-w-wilson.com)
 
 ## Books.
 
