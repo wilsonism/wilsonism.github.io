@@ -17,3 +17,5 @@
 [Geography 509: Community Mapshop](https://wilsonism.github.io/geo509/)
 
 [Geography 702: Concepts in Geography](https://wilsonism.github.io/geo702/)
+
+[Geography 741: Teaching Practicum](https://wilsonism.github.io/geo741/)
