@@ -1,6 +1,6 @@
 # Matthew W. Wilson, PhD
 
-## interim chair and professor of geography, university of kentucky<br>visiting scholar, harvard university
+## chair and professor of geography, university of kentucky<br>associate, harvard university
 
 [bio](https://wilsonism.github.io/bio/)<br>[website](http://www.matthew-w-wilson.com)
 
