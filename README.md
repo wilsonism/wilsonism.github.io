@@ -1,6 +1,6 @@
 # Matthew W. Wilson, PhD
 
-## chair and professor of geography, university of kentucky<br>associate, harvard university
+## chair and professor of geography, university of kentucky<br>associate, harvard university<br>editor, *cultural geographies*
 
 [bio](https://wilsonism.github.io/bio/)<br>[website](http://www.matthew-w-wilson.com)
 
