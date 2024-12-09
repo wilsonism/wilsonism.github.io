@@ -16,6 +16,8 @@
 
 [Geography 200: Orientation in Geography](https://wilsonism.github.io/geo200/)
 
+[Geography 499: Senior Research Seminar](https://wilsonism.github.io/geo499/)
+
 [Geography 509: Community Mapshop](https://wilsonism.github.io/geo509/)
 
 [Geography 702: Concepts in Geography](https://wilsonism.github.io/geo702/)
