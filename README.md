@@ -4,13 +4,13 @@
 
 [bio](https://wilsonism.github.io/bio/)<br>[website](http://www.matthew-w-wilson.com)
 
-## Books.
+## Books
 
 [*New Lines: Critical GIS and the Trouble of the Map*](https://www.upress.umn.edu/book-division/books/new-lines)
 
 [*Understanding Spatial Media*](https://us.sagepub.com/en-us/nam/understanding-spatial-media/book245915%20)
 
-## Teaching.
+## Teaching
 
 [Geography 109: Digital Mapping](https://wilsonism.github.io/geo109/)
 
