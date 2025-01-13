@@ -1,4 +1,4 @@
-# Geography 499-001:<br>Senior Research Seminar<br>Spring 2025 DRAFT
+# Geography 499-001:<br>Senior Research Seminar<br>Spring 2025
 Lectures: T 3:30-6pm, Funkhouser Building Room 306A
 
 **[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
@@ -164,7 +164,7 @@ UK Police will communicate additional information through the UK Alert system du
 | Week | Module | Readings and Activities |
 | :------- | :--------------:        | :--------------        |
 | 1:<br>Jan 14 | Introductions<br>Overview of Lexington geographies | Barrett 2023, Schein 2012, Shelton 2018 |
-| 2:<br>Jan 21 | Overview of research in geography<br>Theory, methods, and empirics | Brainstorm research questions |
+| 2:<br>Jan 21 | Overview of research in geography<br>Theory, methods, and empirics | Clifford etal 2023<br>Brainstorm research questions |
 | 3:<br>Jan 28 | CLASS WILL NOT MEET<br>Map walk in Lexington | Create draft resume |
 | 4:<br>Feb 4 | Identifying and reviewing relevant literature | Create draft of bibliography<br>Attend Career Night on Wed Feb 5 at Stuckert Career Center 5-7pm |
 | 5:<br>Feb 11 | Designing a research project | Create draft of research proposal |
