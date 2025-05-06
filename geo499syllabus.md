@@ -49,7 +49,7 @@ Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-
 
 As a required course for all geography students, this course is meant to accompany the variety of activities that help students engage in department and College life. Each week, students will be asked to prepare to engage in seminar discussions and take an active role in these discussions: including asking questions, articulating their understanding of the texts, and make connections to other students’ ideas and to other texts and activities of the course. Students will complete assignments related to weekly discussions and development of their portfolio and research project. Students will also attend department colloquia and other activities meant to help students connect with the department. We will use Canvas to remind students of activities and provide discussion boards to share questions and resources. All students should contribute to seminar discussions. If students find this to be difficult, they should schedule time to speak with the instructor.
 
-### Profesional development portfolio.
+### Professional development portfolio.
 
 In consultation with the instructor, students will develop a portfolio of materials aligned with their professional development goals. This may include a cover letter, resume, letters of inquiry, and/or a portfolio website. Students will revise these documents following peer and instructor feedback.
 
