@@ -2,7 +2,7 @@
 
 ## chair and professor of geography, university of kentucky<br>associate, harvard university<br>editor, *cultural geographies*
 
-[bio](https://wilsonism.github.io/bio/)<br>[website](http://www.matthew-w-wilson.com)
+[bio](https://wilsonism.github.io/bio/)<br>[website](https://wilsonism.github.io/web/index.html)
 
 ## Books
 
