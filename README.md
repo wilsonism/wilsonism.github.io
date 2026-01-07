@@ -4,7 +4,7 @@
 
 ## Books
 
-[*New Lines: Critical GIS and the Trouble of the Map*](https://www.upress.umn.edu/book-division/books/new-lines)
+[*New Lines: Critical GIS and the Trouble of the Map*](https://www.upress.umn.edu/9780816698530/new-lines/)
 
 [*Understanding Spatial Media*](https://us.sagepub.com/en-us/nam/understanding-spatial-media/book245915%20)
 
