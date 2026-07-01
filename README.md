@@ -1,4 +1,4 @@
-## chair and professor of geography, university of kentucky<br>associate, harvard university<br>editor, *cultural geographies*
+## professor of geography, university of kentucky<br>associate, harvard university<br>editor, *cultural geographies*
 
 [bio](https://wilsonism.github.io/bio/)<br>[website](https://wilsonism.github.io/web/index.html)
 
